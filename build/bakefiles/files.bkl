@@ -3107,6 +3107,7 @@ IMPORTANT: please read docs/tech/tn0016.txt before modifying this file!
     src/osx/cocoa/datetimectrl.mm
     src/osx/cocoa/taskbar.mm
     src/osx/core/hidjoystick.cpp
+    src/osx/cocoa/notifmsg.cpp
 </set>
 
 <set var="ADVANCED_OSX_COCOA_HDR" hints="files">
@@ -3122,6 +3123,7 @@ IMPORTANT: please read docs/tech/tn0016.txt before modifying this file!
     wx/osx/timectrl.h
     wx/osx/core/joystick.h
     wx/osx/cocoa/dataview.h
+    wx/osx/cocoa/notifmsg.h
 </set>
 
 <set var="ADVANCED_OSX_IPHONE_SRC" hints="files">
